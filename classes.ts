@@ -83,3 +83,5 @@ console.log(obj1.var_one); //Parent Class !!!!
 
 let obj2: class_two = new class_two();
 console.log(obj2.var_one, obj2.var_two); //Parent Class !!!!  Child Class !!!!
+
+
